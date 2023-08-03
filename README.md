@@ -34,4 +34,3 @@ Hotel-Management is a web-based application designed to streamline and simplify 
 
 For any inquiries or feedback, please reach out to abdelghafourlahnida01@gmail.com.
 
-
