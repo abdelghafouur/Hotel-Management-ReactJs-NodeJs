@@ -14,7 +14,7 @@ Hotel-Management is a web-based application designed to streamline and simplify 
 - 💻 **Front-end:** The application is built using modern front-end technologies, including React.js, providing an interactive and intuitive user interface.
 - 🖥️ **Back-end:** The back-end is powered by Node.js, offering a robust and scalable server-side solution to handle hotel data, bookings, and transactions.
 
-## Installation
+## Installation 
 
 1. 📥 Clone the repository to your local machine.
 2. 📦 Install the necessary dependencies for the front-end by running `npm install` in the client directory.
